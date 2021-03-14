@@ -3,12 +3,12 @@ Own project
 
 Controls:
 
-q - quit the program
+"q" - quit the program
 
-space - change state of cell (if paused)
+"space" - change state of cell (if paused)
 
-p - pause
+"p" - pause
 
-- and =  (change speed)
+"-" and "="  (change speed)
 
 Use arrows to move across grid.
